@@ -14,7 +14,7 @@ This is basic code and help us understand the basic workings of malware.
 
 ## Uses
 
-**Note** : When victim start file and now, that computer is very running normal. But it's was malware attacked.
+**Note** : When victim start file and now, that computer is very running normal. But it's was attacked.
 
 Now, I will open host computer and connect activity malware.
 
